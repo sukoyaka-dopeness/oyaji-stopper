@@ -110,7 +110,7 @@ npx expo start
 
 - [PHILOSOPHY.md](./PHILOSOPHY.md) — 5大原則・倫理境界・分人理論との接続
 - [SPECIFICATION.md](./SPECIFICATION.md) — 詳細仕様・介入判断フロー・デプロイ手順
-- [future-ai-handoff.md](./future-ai-handoff.md) — Phase 1〜7の思想アーク
+- [meta/oyaji-stopper-handoff.md](./meta/oyaji-stopper-handoff.md) — Phase 1〜7の思想アーク・次AIへの引き継ぎ
 
 ---
 
